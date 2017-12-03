@@ -1,6 +1,7 @@
 # HTML page made with Materialize!
 
-![Alt text](https://raw.github.com/haarismian/Tribute-Page/Capture.PNG?raw=true "Optional Title")
+![capture](https://user-images.githubusercontent.com/13083798/33523389-9aa6d144-d7d3-11e7-8584-98ef531c7e75.PNG)
+
 
 A quick page to practice creating webpages using the Materialize CSS framework
 
