@@ -1,6 +1,6 @@
 # Popular Movie Trailers!
 
-![](http://i.imgur.com/MBxh9Wu.jpg)
+![Alt text](/capture.png?raw=true "Optional Title")
 
 A quick page to practice creating webpages using the Materialize CSS framework
 
