@@ -1,6 +1,6 @@
-# Popular Movie Trailers!
+# HTML page made with Materialize!
 
-![Alt text](/capture.png?raw=true "Optional Title")
+![Alt text](Tribute-Page/Capture.PNG?raw=true "Optional Title")
 
 A quick page to practice creating webpages using the Materialize CSS framework
 
